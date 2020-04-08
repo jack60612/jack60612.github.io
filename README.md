@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/661b8288-96e7-46e8-ae0b-2ae895405e2e/deploy-status)](https://app.netlify.com/sites/gifted-wing-a746e1/deploys)
 
 # Jekyll Now
 
