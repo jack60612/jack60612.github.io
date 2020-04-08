@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Im Jack from Chicago,IL  and i have been experementing with computers from a young age.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am proficant in python and html but i mostly do backend server setups for  blockchain and file server / web server + load balancing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jack@jacknelson.xyz](mailto:jack@jacknelson.xyz)
