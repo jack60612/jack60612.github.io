@@ -83,7 +83,6 @@ plugins:
   - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-relative-links
-  - jekyll-sass-converter
 
 # Exclude these files from your production _site
 exclude:
@@ -92,3 +91,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+#plugin config
+repository: jack60612/jack60612.github.io
