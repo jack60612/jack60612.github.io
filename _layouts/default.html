@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -47,5 +48,16 @@
     </div>
 
     {% include analytics.html %}
+   <script>
+ 	 if (window.netlifyIdentity) {
+   	 window.netlifyIdentity.on("init", user => {
+     	 if (!user) {
+       	 window.netlifyIdentity.on("login", () => {
+         	 document.location.href = "/admin/";
+        	});
+      	}
+    	});
+  	}
+	 </script>
   </body>
 </html>
