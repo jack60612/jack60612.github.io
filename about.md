@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Im Jack from Chicago,IL  and i have been experementing with computers from a young age.
+Im Jack from Chicago,IL and i have been "experementing" with computers from a young age.
 
 ### More Information
 
