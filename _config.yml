@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jack Nelson
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A  documentation/demonstration of most of my projects and knowledge
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:jack@jacknelson.xyz
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: jack60612
   instagram:
   linkedin:
   pinterest:
@@ -76,6 +76,9 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-include-cache
+  - jekyll-gist
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:
