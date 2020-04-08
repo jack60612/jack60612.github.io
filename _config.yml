@@ -79,6 +79,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-gist
   - jekyll-seo-tag
+  - jemoji
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-sass-converter
 
 # Exclude these files from your production _site
 exclude:
